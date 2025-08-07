@@ -1,42 +1,41 @@
-<h2 align="left">My name is Mehedi.<br>Thank you for stopping by! Let's embark on an exciting journey, making magic through code. Together, we'll shape a better future, one commit at a time.</h2>
+# Hi, I'm Tanjil 👋
 
-###
+💻 **Web Developer | React Enthusiast | UI Designer**  
+I love turning ideas into beautiful, responsive, and user-friendly web experiences.  
+Currently building **full-stack applications** and experimenting with **custom UI kits**.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=myselfmehedihasan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=myselfmehedihasan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+---
 
-###
+## 🚀 About Me
+- 🎯 Currently working on: **My own UI kit like DaisyUI**  
+- 📚 Learning: **Advanced React**, **TailwindCSS plugins**, and **UI/UX best practices**  
+- 🌱 Open to: Collaboration on open-source UI libraries & front-end projects  
+- 🎨 Fun fact: I design *and* code my own components from scratch  
+- ⚡ Motto: *"Build once, use everywhere."*
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="30" alt="wordpress logo"  />
-</div>
+---
 
-###
+## 🛠 Tech Stack
+**Frontend:** React, TailwindCSS, DaisyUI, JavaScript (ES6+)  
+**Backend:** Node.js, Express  
+**Tools:** Git, GitHub, Vite, Firebase, VS Code  
+**Design:** Figma, Canva
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/myselfmehedihasan/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://stackoverflow.com/users/22695162/myself-tanjil" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="stackoverflow logo"  />
-  </a>
-  <a href="https://codepen.io/mehedi-tanjil" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="codepen logo"  />
-  </a>
-</div>
+---
 
-###
+## 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=myselftanjil&show_icons=true&theme=radical" alt="Tanjil's GitHub Stats" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=myselftanjil&layout=compact&theme=radical" alt="Top Languages" width="48%">
+</p>
+
+---
+
+## 🌐 Let's Connect
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](#)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@example.com)  
+
+---
+
+💡 *Pinned for a reason — this is me at a glance.*
