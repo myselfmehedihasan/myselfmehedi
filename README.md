@@ -21,7 +21,7 @@
 
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=myselfmehedihasan&theme=react-dark" alt="GitHub Contribution Graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=myselfmehedihasan&theme=github" alt="GitHub Profile Summary" />
 </p>
 
 I'm **Mehedi Hasan Tanjil** (he/him), a passionate frontend developer based in Dhaka, Bangladesh.
