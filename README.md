@@ -15,6 +15,11 @@
   </a>
 </p>
 
+
+I'm **Mehedi Hasan Tanjil** (he/him), a passionate frontend developer based in Dhaka, Bangladesh.
+
+I specialize in building responsive, user-friendly web applications with modern JavaScript frameworks and clean design principles. I love turning complex problems into intuitive digital experiences.
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Frontend+Developer;React+Enthusiast;Lifelong+Learner" alt="Typing SVG" />
 </p>
@@ -27,11 +32,6 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=myselfmehedihasan&theme=dark" alt="GitHub Streak Stats" />
 </p>
-
-
-I'm **Mehedi Hasan Tanjil** (he/him), a passionate frontend developer based in Dhaka, Bangladesh.
-
-I specialize in building responsive, user-friendly web applications with modern JavaScript frameworks and clean design principles. I love turning complex problems into intuitive digital experiences.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=myselfmehedihasan&show_icons=true&theme=transparent&hide_border=true&hide_title=true" alt="GitHub stats" />
