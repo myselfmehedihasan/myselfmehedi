@@ -1,64 +1,73 @@
-<h1 align="center">Hi, I'm Tanjil 👋</h1>
-<h3 align="center">💻 Web Developer | 🎨 UI Designer | ⚡ React Enthusiast</h3>
+# Hi there, I'm **Mehedi Hasan Tanjil** 👋
 
-<p align="center">
-  <a href="https://github.com/myselftanjil">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F73C88&center=true&vCenter=true&width=440&lines=Building+beautiful+UIs+%F0%9F%8E%A8;React+%26+TailwindCSS+Lover+%E2%9C%A8;Always+learning+new+things+%F0%9F%92%AB" alt="Typing SVG" />
+<p align='center'>
+  <a href="https://portfolio-mehedihasan.netlify.app/">
+    <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=about.me&logoColor=white" alt="Website badge" />
+  </a>&nbsp;
+  <a href="https://dev.to/myselfmehedihasan">
+    <img src="https://img.shields.io/badge/dev.to-833AB4?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to badge" />
+  </a>&nbsp;
+  <a href="https://twitter.com/myselftanjil">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter badge" />
+  </a>&nbsp;
+  <a href="https://www.linkedin.com/in/myselfmehedihasan/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge" />
   </a>
 </p>
 
----
-
-## 🚀 About Me
-- 🔨 Currently crafting: **My own UI Kit like DaisyUI**  
-- 📚 Learning: **Advanced React**, **Tailwind Plugins**, **UI/UX Principles**  
-- 🎯 Goal: Create tools that make developers' lives easier  
-- ⚡ Fun fact: I prefer **custom components** over copy-paste templates  
-
----
-
-## 🛠 Tech Stack
 <p align="center">
-  <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61dafb" />
-  <img src="https://img.shields.io/badge/TailwindCSS-0f172a?style=for-the-badge&logo=tailwindcss&logoColor=38bdf8" />
-  <img src="https://img.shields.io/badge/DaisyUI-5b21b6?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-026e00?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=ff7262" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Frontend+Developer;React+Enthusiast;Lifelong+Learner" alt="Typing SVG" />
 </p>
 
----
+I'm **Mehedi Hasan Tanjil** (he/him), a passionate frontend developer based in Dhaka, Bangladesh.
 
-## 📊 GitHub Stats
-<table align="center">
-<tr>
-<td>
-<img src="https://github-readme-stats.vercel.app/api?username=myselftanjil&show_icons=true&theme=radical&hide_border=true" width="100%"/>
-</td>
-<td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=myselftanjil&layout=compact&theme=radical&hide_border=true" width="100%"/>
-</td>
-</tr>
-</table>
-
----
-
-## 🌟 Featured Projects
-- 🚗 **Travel Destinations App** – React + Tailwind + JSON API  
-- 🎨 **Custom UI Kit** – My own TailwindCSS plugin with themes  
-- 🍲 **Recipe App** – Search & save your favorite recipes  
-
----
-
-## 🌐 Connect With Me
-<p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-
----
+I specialize in building responsive, user-friendly web applications with modern JavaScript frameworks and clean design principles. I love turning complex problems into intuitive digital experiences.
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=myselftanjil&label=Profile+Views&color=ff69b4&style=for-the-badge" />
+  <img src="https://github-readme-stats.vercel.app/api?username=myselfmehedihasan&show_icons=true&theme=transparent&hide_border=true&hide_title=true" alt="GitHub stats" />
 </p>
+
+## 🚀 Featured Projects
+
+<p align="center">
+  <!-- Add your project pins here -->
+  <!--
+  <a href="https://github.com/myselfmehedihasan/project1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=myselfmehedihasan&repo=project1&theme=transparent&hide_border=true" />
+  </a>
+  <a href="https://github.com/myselfmehedihasan/project2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=myselfmehedihasan&repo=project2&theme=transparent&hide_border=true" />
+  </a>
+  -->
+  *Projects coming soon!*
+</p>
+
+Check out my projects where I solve interesting problems and learn new technologies.
+
+## 💻 Tech I Love Working With
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />&nbsp;
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />&nbsp;
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />&nbsp;
+  <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />&nbsp;
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+</p>
+
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://github.com/sponsors/myselfmehedihasan">
+    <img src="https://img.shields.io/badge/Sponsor_my_work-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=white" alt="GitHub Sponsors" />
+  </a>
+</p>
+
+- 💬 Ask me about **frontend development**, **React**, or **UI/UX**
+- 🌱 I’m currently learning **advanced React patterns and state management**
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/myselfmehedihasan/) or [Twitter](https://twitter.com/myselftanjil)
+
+🔗 Visit my [portfolio](https://portfolio-mehedihasan.netlify.app/) for more!
+
+---
+
+*Feel free to update this README anytime with your latest projects and skills!*
