@@ -63,14 +63,18 @@ Check out my projects where I solve interesting problems and learn new technolog
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />&nbsp;
   <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />&nbsp;
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />&nbsp;
-
+</p>
   <!-- Backend -->
+
+  <p align="center">
   <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />&nbsp;
   <img src="https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js" />&nbsp;
   <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />&nbsp;
   <img src="https://img.shields.io/badge/-REST_API-0052CC?style=flat-square&logo=rest-api&logoColor=white" alt="REST API" />&nbsp;
   <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
-</p>
+  </p>
+  
+
 
 ## 🤝 Let's Connect
 
