@@ -19,6 +19,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Frontend+Developer;React+Enthusiast;Lifelong+Learner" alt="Typing SVG" />
 </p>
 
+
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=myselfmehedihasan&theme=react-dark" alt="GitHub Contribution Graph" />
+</p>
+
 I'm **Mehedi Hasan Tanjil** (he/him), a passionate frontend developer based in Dhaka, Bangladesh.
 
 I specialize in building responsive, user-friendly web applications with modern JavaScript frameworks and clean design principles. I love turning complex problems into intuitive digital experiences.
