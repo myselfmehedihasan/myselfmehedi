@@ -24,6 +24,11 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=myselfmehedihasan&theme=github" alt="GitHub Profile Summary" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=myselfmehedihasan&theme=dark" alt="GitHub Streak Stats" />
+</p>
+
+
 I'm **Mehedi Hasan Tanjil** (he/him), a passionate frontend developer based in Dhaka, Bangladesh.
 
 I specialize in building responsive, user-friendly web applications with modern JavaScript frameworks and clean design principles. I love turning complex problems into intuitive digital experiences.
