@@ -91,5 +91,3 @@ Check out my projects where I solve interesting problems and learn new technolog
 🔗 Visit my [portfolio](https://portfolio-mehedihasan.netlify.app/) for more!
 
 ---
-
-*Feel free to update this README anytime with your latest projects and skills!*
