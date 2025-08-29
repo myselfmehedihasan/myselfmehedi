@@ -92,7 +92,7 @@ Check out my repositories where I solve interesting problems and learn new techn
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />  
 
 ### 🧪 Testing & Tools  
-<img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white" />&nbsp;
+
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/CI/CD-4285F4?style=flat-square&logo=githubactions&logoColor=white" />&nbsp;
