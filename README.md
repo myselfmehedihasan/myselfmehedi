@@ -17,20 +17,16 @@
 
 
 
+
+I'm **Mehedi Hasan Tanjil** (he/him), a passionate frontend developer based in Dhaka, Bangladesh.
+
+I specialize in building responsive, user-friendly web applications with modern JavaScript frameworks and clean design principles. I love turning complex problems into intuitive digital experiences.
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="images/breakout-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="images/breakout-light.svg" />
   <img alt="Breakout Game" src="images/breakout-light.svg" />
 </picture>
-
-
-
-
-
-
-I'm **Mehedi Hasan Tanjil** (he/him), a passionate frontend developer based in Dhaka, Bangladesh.
-
-I specialize in building responsive, user-friendly web applications with modern JavaScript frameworks and clean design principles. I love turning complex problems into intuitive digital experiences.
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Frontend+Developer;React+Enthusiast;Lifelong+Learner" alt="Typing SVG" />
